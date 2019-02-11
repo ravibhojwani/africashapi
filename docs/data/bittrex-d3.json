@@ -1,0 +1,2463 @@
+{
+  "nodes": [
+    {
+      "id": "BTC",
+      "group": "10"
+    },
+    {
+      "id": "ETH",
+      "group": "10"
+    },
+    {
+      "id": "USD",
+      "group": "10"
+    },
+    {
+      "id": "USDT",
+      "group": "10"
+    },
+    {
+      "id": "2GIVE",
+      "group": "1"
+    },
+    {
+      "id": "ABY",
+      "group": "1"
+    },
+    {
+      "id": "ADA",
+      "group": "4"
+    },
+    {
+      "id": "ADT",
+      "group": "1"
+    },
+    {
+      "id": "ADX",
+      "group": "2"
+    },
+    {
+      "id": "AEON",
+      "group": "1"
+    },
+    {
+      "id": "AID",
+      "group": "1"
+    },
+    {
+      "id": "AMP",
+      "group": "1"
+    },
+    {
+      "id": "ANT",
+      "group": "2"
+    },
+    {
+      "id": "ARDR",
+      "group": "1"
+    },
+    {
+      "id": "ARK",
+      "group": "1"
+    },
+    {
+      "id": "BAT",
+      "group": "4"
+    },
+    {
+      "id": "BAY",
+      "group": "1"
+    },
+    {
+      "id": "BCH",
+      "group": "4"
+    },
+    {
+      "id": "BCPT",
+      "group": "1"
+    },
+    {
+      "id": "BFT",
+      "group": "1"
+    },
+    {
+      "id": "BITB",
+      "group": "1"
+    },
+    {
+      "id": "BITS",
+      "group": "1"
+    },
+    {
+      "id": "BKX",
+      "group": "1"
+    },
+    {
+      "id": "BLK",
+      "group": "1"
+    },
+    {
+      "id": "BLOCK",
+      "group": "1"
+    },
+    {
+      "id": "BLT",
+      "group": "1"
+    },
+    {
+      "id": "BNT",
+      "group": "2"
+    },
+    {
+      "id": "BOXX",
+      "group": "1"
+    },
+    {
+      "id": "BRK",
+      "group": "1"
+    },
+    {
+      "id": "BRX",
+      "group": "1"
+    },
+    {
+      "id": "BSD",
+      "group": "1"
+    },
+    {
+      "id": "BSV",
+      "group": "4"
+    },
+    {
+      "id": "BTM",
+      "group": "1"
+    },
+    {
+      "id": "BURST",
+      "group": "1"
+    },
+    {
+      "id": "CANN",
+      "group": "1"
+    },
+    {
+      "id": "CBC",
+      "group": "1"
+    },
+    {
+      "id": "CLOAK",
+      "group": "1"
+    },
+    {
+      "id": "CMCT",
+      "group": "1"
+    },
+    {
+      "id": "COVAL",
+      "group": "1"
+    },
+    {
+      "id": "CRW",
+      "group": "1"
+    },
+    {
+      "id": "CURE",
+      "group": "1"
+    },
+    {
+      "id": "CVC",
+      "group": "2"
+    },
+    {
+      "id": "DASH",
+      "group": "3"
+    },
+    {
+      "id": "DCR",
+      "group": "2"
+    },
+    {
+      "id": "DCT",
+      "group": "1"
+    },
+    {
+      "id": "DENT",
+      "group": "1"
+    },
+    {
+      "id": "DGB",
+      "group": "4"
+    },
+    {
+      "id": "DMD",
+      "group": "1"
+    },
+    {
+      "id": "DMT",
+      "group": "2"
+    },
+    {
+      "id": "DNT",
+      "group": "1"
+    },
+    {
+      "id": "DOGE",
+      "group": "2"
+    },
+    {
+      "id": "DOPE",
+      "group": "1"
+    },
+    {
+      "id": "DRGN",
+      "group": "1"
+    },
+    {
+      "id": "DTA",
+      "group": "1"
+    },
+    {
+      "id": "DTB",
+      "group": "1"
+    },
+    {
+      "id": "DYN",
+      "group": "1"
+    },
+    {
+      "id": "EBST",
+      "group": "1"
+    },
+    {
+      "id": "EDG",
+      "group": "1"
+    },
+    {
+      "id": "EDR",
+      "group": "2"
+    },
+    {
+      "id": "EGC",
+      "group": "1"
+    },
+    {
+      "id": "ELF",
+      "group": "1"
+    },
+    {
+      "id": "EMC",
+      "group": "1"
+    },
+    {
+      "id": "EMC2",
+      "group": "1"
+    },
+    {
+      "id": "ENG",
+      "group": "2"
+    },
+    {
+      "id": "ENJ",
+      "group": "1"
+    },
+    {
+      "id": "ETC",
+      "group": "4"
+    },
+    {
+      "id": "EXCL",
+      "group": "1"
+    },
+    {
+      "id": "EXP",
+      "group": "1"
+    },
+    {
+      "id": "FCT",
+      "group": "1"
+    },
+    {
+      "id": "FLDC",
+      "group": "1"
+    },
+    {
+      "id": "FLO",
+      "group": "1"
+    },
+    {
+      "id": "FTC",
+      "group": "1"
+    },
+    {
+      "id": "GAM",
+      "group": "1"
+    },
+    {
+      "id": "GAME",
+      "group": "1"
+    },
+    {
+      "id": "GBG",
+      "group": "1"
+    },
+    {
+      "id": "GBYTE",
+      "group": "1"
+    },
+    {
+      "id": "GEO",
+      "group": "1"
+    },
+    {
+      "id": "GLD",
+      "group": "1"
+    },
+    {
+      "id": "GNO",
+      "group": "2"
+    },
+    {
+      "id": "GNT",
+      "group": "2"
+    },
+    {
+      "id": "GO",
+      "group": "1"
+    },
+    {
+      "id": "GOLOS",
+      "group": "1"
+    },
+    {
+      "id": "GRC",
+      "group": "1"
+    },
+    {
+      "id": "GRS",
+      "group": "1"
+    },
+    {
+      "id": "GTO",
+      "group": "1"
+    },
+    {
+      "id": "GUP",
+      "group": "1"
+    },
+    {
+      "id": "HMQ",
+      "group": "1"
+    },
+    {
+      "id": "HYDRO",
+      "group": "1"
+    },
+    {
+      "id": "IGNIS",
+      "group": "1"
+    },
+    {
+      "id": "IHT",
+      "group": "1"
+    },
+    {
+      "id": "INCNT",
+      "group": "1"
+    },
+    {
+      "id": "IOC",
+      "group": "1"
+    },
+    {
+      "id": "ION",
+      "group": "1"
+    },
+    {
+      "id": "IOP",
+      "group": "1"
+    },
+    {
+      "id": "IOST",
+      "group": "1"
+    },
+    {
+      "id": "IOTX",
+      "group": "1"
+    },
+    {
+      "id": "JNT",
+      "group": "1"
+    },
+    {
+      "id": "KMD",
+      "group": "1"
+    },
+    {
+      "id": "KORE",
+      "group": "1"
+    },
+    {
+      "id": "LBA",
+      "group": "1"
+    },
+    {
+      "id": "LBC",
+      "group": "1"
+    },
+    {
+      "id": "LOOM",
+      "group": "1"
+    },
+    {
+      "id": "LRC",
+      "group": "1"
+    },
+    {
+      "id": "LSK",
+      "group": "1"
+    },
+    {
+      "id": "LTC",
+      "group": "4"
+    },
+    {
+      "id": "LUN",
+      "group": "1"
+    },
+    {
+      "id": "MANA",
+      "group": "2"
+    },
+    {
+      "id": "MCO",
+      "group": "2"
+    },
+    {
+      "id": "MEDX",
+      "group": "1"
+    },
+    {
+      "id": "MEME",
+      "group": "1"
+    },
+    {
+      "id": "MER",
+      "group": "1"
+    },
+    {
+      "id": "MET",
+      "group": "1"
+    },
+    {
+      "id": "MFT",
+      "group": "1"
+    },
+    {
+      "id": "MLN",
+      "group": "1"
+    },
+    {
+      "id": "MOBI",
+      "group": "1"
+    },
+    {
+      "id": "MOC",
+      "group": "1"
+    },
+    {
+      "id": "MONA",
+      "group": "1"
+    },
+    {
+      "id": "MORE",
+      "group": "2"
+    },
+    {
+      "id": "MTL",
+      "group": "1"
+    },
+    {
+      "id": "MUE",
+      "group": "1"
+    },
+    {
+      "id": "MUSIC",
+      "group": "1"
+    },
+    {
+      "id": "NAV",
+      "group": "1"
+    },
+    {
+      "id": "NBT",
+      "group": "1"
+    },
+    {
+      "id": "NCASH",
+      "group": "1"
+    },
+    {
+      "id": "NEO",
+      "group": "3"
+    },
+    {
+      "id": "NEOS",
+      "group": "1"
+    },
+    {
+      "id": "NGC",
+      "group": "1"
+    },
+    {
+      "id": "NLC2",
+      "group": "1"
+    },
+    {
+      "id": "NLG",
+      "group": "1"
+    },
+    {
+      "id": "NMR",
+      "group": "1"
+    },
+    {
+      "id": "NPXS",
+      "group": "3"
+    },
+    {
+      "id": "NXC",
+      "group": "1"
+    },
+    {
+      "id": "NXS",
+      "group": "1"
+    },
+    {
+      "id": "NXT",
+      "group": "2"
+    },
+    {
+      "id": "OCN",
+      "group": "2"
+    },
+    {
+      "id": "OK",
+      "group": "1"
+    },
+    {
+      "id": "OMG",
+      "group": "3"
+    },
+    {
+      "id": "OST",
+      "group": "1"
+    },
+    {
+      "id": "PAL",
+      "group": "1"
+    },
+    {
+      "id": "PART",
+      "group": "1"
+    },
+    {
+      "id": "PAX",
+      "group": "3"
+    },
+    {
+      "id": "PAY",
+      "group": "2"
+    },
+    {
+      "id": "PINK",
+      "group": "1"
+    },
+    {
+      "id": "PIVX",
+      "group": "1"
+    },
+    {
+      "id": "PMA",
+      "group": "1"
+    },
+    {
+      "id": "POLY",
+      "group": "2"
+    },
+    {
+      "id": "POT",
+      "group": "1"
+    },
+    {
+      "id": "POWR",
+      "group": "2"
+    },
+    {
+      "id": "PPC",
+      "group": "1"
+    },
+    {
+      "id": "PRO",
+      "group": "1"
+    },
+    {
+      "id": "PTOY",
+      "group": "1"
+    },
+    {
+      "id": "QRL",
+      "group": "1"
+    },
+    {
+      "id": "QTUM",
+      "group": "2"
+    },
+    {
+      "id": "QWARK",
+      "group": "1"
+    },
+    {
+      "id": "RADS",
+      "group": "1"
+    },
+    {
+      "id": "RCN",
+      "group": "1"
+    },
+    {
+      "id": "RDD",
+      "group": "1"
+    },
+    {
+      "id": "REP",
+      "group": "2"
+    },
+    {
+      "id": "RFR",
+      "group": "1"
+    },
+    {
+      "id": "RLC",
+      "group": "2"
+    },
+    {
+      "id": "RVN",
+      "group": "2"
+    },
+    {
+      "id": "RVR",
+      "group": "1"
+    },
+    {
+      "id": "SALT",
+      "group": "2"
+    },
+    {
+      "id": "SBD",
+      "group": "1"
+    },
+    {
+      "id": "SC",
+      "group": "4"
+    },
+    {
+      "id": "SEQ",
+      "group": "1"
+    },
+    {
+      "id": "SHIFT",
+      "group": "1"
+    },
+    {
+      "id": "SIB",
+      "group": "1"
+    },
+    {
+      "id": "SLR",
+      "group": "1"
+    },
+    {
+      "id": "SLS",
+      "group": "1"
+    },
+    {
+      "id": "SNT",
+      "group": "2"
+    },
+    {
+      "id": "SOLVE",
+      "group": "1"
+    },
+    {
+      "id": "SPC",
+      "group": "1"
+    },
+    {
+      "id": "SPHR",
+      "group": "1"
+    },
+    {
+      "id": "SRN",
+      "group": "2"
+    },
+    {
+      "id": "STEEM",
+      "group": "1"
+    },
+    {
+      "id": "STORJ",
+      "group": "1"
+    },
+    {
+      "id": "STORM",
+      "group": "2"
+    },
+    {
+      "id": "STRAT",
+      "group": "2"
+    },
+    {
+      "id": "SWT",
+      "group": "1"
+    },
+    {
+      "id": "SYNX",
+      "group": "1"
+    },
+    {
+      "id": "SYS",
+      "group": "1"
+    },
+    {
+      "id": "THC",
+      "group": "1"
+    },
+    {
+      "id": "TIX",
+      "group": "1"
+    },
+    {
+      "id": "TKS",
+      "group": "1"
+    },
+    {
+      "id": "TRX",
+      "group": "4"
+    },
+    {
+      "id": "TUBE",
+      "group": "1"
+    },
+    {
+      "id": "TUSD",
+      "group": "4"
+    },
+    {
+      "id": "TX",
+      "group": "1"
+    },
+    {
+      "id": "UBQ",
+      "group": "1"
+    },
+    {
+      "id": "UKG",
+      "group": "2"
+    },
+    {
+      "id": "UP",
+      "group": "1"
+    },
+    {
+      "id": "UPP",
+      "group": "1"
+    },
+    {
+      "id": "USDS",
+      "group": "2"
+    },
+    {
+      "id": "VEE",
+      "group": "1"
+    },
+    {
+      "id": "VIA",
+      "group": "1"
+    },
+    {
+      "id": "VIB",
+      "group": "2"
+    },
+    {
+      "id": "VITE",
+      "group": "1"
+    },
+    {
+      "id": "VRC",
+      "group": "1"
+    },
+    {
+      "id": "VRM",
+      "group": "1"
+    },
+    {
+      "id": "VTC",
+      "group": "1"
+    },
+    {
+      "id": "WAVES",
+      "group": "2"
+    },
+    {
+      "id": "WAX",
+      "group": "2"
+    },
+    {
+      "id": "WINGS",
+      "group": "1"
+    },
+    {
+      "id": "XCP",
+      "group": "1"
+    },
+    {
+      "id": "XDN",
+      "group": "1"
+    },
+    {
+      "id": "XEL",
+      "group": "1"
+    },
+    {
+      "id": "XEM",
+      "group": "2"
+    },
+    {
+      "id": "XHV",
+      "group": "1"
+    },
+    {
+      "id": "XLM",
+      "group": "2"
+    },
+    {
+      "id": "XMR",
+      "group": "3"
+    },
+    {
+      "id": "XMY",
+      "group": "1"
+    },
+    {
+      "id": "XNK",
+      "group": "1"
+    },
+    {
+      "id": "XRP",
+      "group": "4"
+    },
+    {
+      "id": "XST",
+      "group": "1"
+    },
+    {
+      "id": "XVG",
+      "group": "2"
+    },
+    {
+      "id": "XWC",
+      "group": "1"
+    },
+    {
+      "id": "XZC",
+      "group": "1"
+    },
+    {
+      "id": "ZCL",
+      "group": "1"
+    },
+    {
+      "id": "ZEC",
+      "group": "4"
+    },
+    {
+      "id": "ZEN",
+      "group": "1"
+    },
+    {
+      "id": "ZIL",
+      "group": "1"
+    },
+    {
+      "id": "ZRX",
+      "group": "4"
+    }
+  ],
+  "links": [
+    {
+      "source": "BTC",
+      "target": "2GIVE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ABY",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ADA",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ADT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ADX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "AEON",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "AID",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "AMP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ANT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ARDR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ARK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BAT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BAY",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BCH",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BCPT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BFT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BITB",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BITS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BKX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BLK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BLOCK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BLT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BNT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BOXX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BRK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BRX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BSD",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BSV",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BTM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "BURST",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "CANN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "CBC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "CLOAK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "CMCT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "COVAL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "CRW",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "CURE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "CVC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DASH",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DCR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DCT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DENT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DGB",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DMD",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DMT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DNT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DOGE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DOPE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DRGN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DTA",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DTB",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "DYN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EBST",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EDG",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EDR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EGC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ELF",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EMC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EMC2",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ENG",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ENJ",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ETC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ETH",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EXCL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "EXP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "FCT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "FLDC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "FLO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "FTC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GAM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GAME",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GBG",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GBYTE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GEO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GLD",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GNO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GNT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GOLOS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GRC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GRS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GTO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "GUP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "HMQ",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "HYDRO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "IGNIS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "IHT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "INCNT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "IOC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ION",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "IOP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "IOST",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "IOTX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "JNT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "KMD",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "KORE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "LBA",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "LBC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "LOOM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "LRC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "LSK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "LTC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "LUN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MANA",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MCO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MEDX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MEME",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MER",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MET",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MFT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MLN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MOBI",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MOC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MONA",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MORE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MTL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MUE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "MUSIC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NAV",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NBT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NCASH",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NEO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NEOS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NGC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NLC2",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NLG",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NMR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NPXS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NXC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NXS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "NXT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "OCN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "OK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "OMG",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "OST",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PAL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PART",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PAX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PAY",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PINK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PIVX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PMA",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "POLY",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "POT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "POWR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PPC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PRO",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "PTOY",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "QRL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "QTUM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "QWARK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "RADS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "RCN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "RDD",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "REP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "RFR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "RLC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "RVN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "RVR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SALT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SBD",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SEQ",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SHIFT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SIB",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SLR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SLS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SNT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SOLVE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SPC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SPHR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SRN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "STEEM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "STORJ",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "STORM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "STRAT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SWT",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SYNX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "SYS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "THC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "TIX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "TKS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "TRX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "TUBE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "TUSD",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "TX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "UBQ",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "UKG",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "UP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "UPP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "USDS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "VEE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "VIA",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "VIB",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "VITE",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "VRC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "VRM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "VTC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "WAVES",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "WAX",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "WINGS",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XCP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XDN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XEL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XEM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XHV",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XLM",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XMR",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XMY",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XNK",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XRP",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XST",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XVG",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XWC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "XZC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ZCL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ZEC",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ZEN",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ZIL",
+      "value": "1"
+    },
+    {
+      "source": "BTC",
+      "target": "ZRX",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "ADA",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "ADX",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "ANT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "BAT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "BCH",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "BNT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "BSV",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "CVC",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "DASH",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "DGB",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "DMT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "ENG",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "ETC",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "GNO",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "GNT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "LTC",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "MANA",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "MCO",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "MORE",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "NEO",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "NPXS",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "OCN",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "OMG",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "PAY",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "POLY",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "POWR",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "QTUM",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "REP",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "RLC",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "SALT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "SC",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "SNT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "SRN",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "STORM",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "STRAT",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "TRX",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "TUSD",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "UKG",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "VIB",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "WAVES",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "WAX",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "XEM",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "XLM",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "XMR",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "XRP",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "ZEC",
+      "value": "1"
+    },
+    {
+      "source": "ETH",
+      "target": "ZRX",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "ADA",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "BAT",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "BCH",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "BSV",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "BTC",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "DGB",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "EDR",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "ETC",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "ETH",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "LTC",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "PAX",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "SC",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "ADA",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "BAT",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "BCH",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "BSV",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "BTC",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "DASH",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "DCR",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "DGB",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "DOGE",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "ETC",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "ETH",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "LTC",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "NEO",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "NPXS",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "NXT",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "OMG",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "PAX",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "PMA",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "RVN",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "TRX",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "SC",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "TRX",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "TUSD",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "TUSD",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "XMR",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "XRP",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "XVG",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "ZEC",
+      "value": "1"
+    },
+    {
+      "source": "USDT",
+      "target": "ZRX",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "USDS",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "USDT",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "XRP",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "ZEC",
+      "value": "1"
+    },
+    {
+      "source": "USD",
+      "target": "ZRX",
+      "value": "1"
+    }
+  ]
+}

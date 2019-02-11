@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129018916-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-129018916-2');</script>
+    <!-- Initial meta data -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>TokenPairs</title>
+    <meta name="description" content="A data table of all the cryptocurrencies listed on Bittrex Exchange">
+    <meta name="keywords" content="blockchain, bittrex, cryptocurrency, cryptocurrency exchange, data visualization, d3.js, crypto, trading, trading pairs">
+
+    <!-- Favicons and site branding -->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="../apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="../apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="../apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="../apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="../apple-icon-180x180.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="../apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../apple-icon-180x180.png">
+    <link rel="icon" type="image/png" href="../favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="../favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="../favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="../favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="../favicon-128.png" sizes="128x128" />
+    <link rel="manifest" href="../manifest.json">
+    <meta name="application-name" content="TokenPairs" />
+    <meta name="theme-color" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="../mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="../mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="../mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="../mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="../mstile-310x310.png" />
+    <meta property="og:site_name" content="TokenPairs" />
+    <meta property="og:url" content="https://tokenpairs.com" />
+    <meta property="og:title" content="TokenPairs" />
+    <meta property="og:description" content="A data table of all the cryptocurrencies listed on Bittrex Exchange" />
+    <meta property="og:image" content="../favicon-128.png" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="TokenPairs">
+    <meta name="twitter:description" content="A data table of all the cryptocurrencies listed on Bittrex Exchange">
+
+    <!-- Site Styles -->
+    <link href="https://resonova.github.io/cdn/css/bootstrap/min-3.3.7.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://resonova.github.io/cdn/css/toastr.min.css" rel="stylesheet">
+    <link href="https://resonova.github.io/cdn/css/animate.css" rel="stylesheet">
+    <link href="https://resonova.github.io/cdn/css/novx/novx.css" rel="stylesheet">
+    <link href="https://resonova.github.io/cdn/css/datatables.min.css" rel="stylesheet">
+
+    <style>
+        .table-img img{
+            height: 20px;
+            width: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <nav class="navbar-default navbar-static-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav metismenu" id="side-menu">
+                    <li class="nav-header">
+                        <div class="dropdown profile-element"> <span>
+                                <img alt="image" style="height: 100%; width: 90%" src="../img/TokenPairs-Logo-wide.png" />
+                            </span>
+                            <span class="clear"> <span class="block m-t-xs"> <strong class="font-bold" style="font-size: 16px">by
+                                        ResoNova</strong>
+                        </div>
+                        <div class="logo-element">
+                            <img alt="image" style="height: 100%; width: 70%" src="../img/TokenPairs-Logo.png" />
+                        </div>
+                    </li>
+                    <li>
+                        <a href="index.html"><i class="fa fa-sitemap"></i> <span class="nav-label">Visualizations</span>
+                            <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li><a href="../index.html">Bittrex</a></li>
+                        </ul>
+                    </li>
+                    <li class="active">
+                        <a href="#"><i class="fa fa-table"></i> <span class="nav-label">Tables</span><span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level collapse">
+                            <li class="active"><a href="index.html">Bittrex Assets</a></li>
+                            <li><a href="../bittrex-pairs/index.html">Bittrex Pairs</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="gray-bg">
+            <div class="animated slideInDown">
+                <div class="row novx-bg text-white dashboard-header" style="height: 70px">
+
+                    <div class="col-md-12">
+                        <div class="logo-img">
+                            <a class="navbar-minimalize minimalize-styl-2 btn btn-primary" style="margin: -5px 20px 0px 0px"
+                                href="#"><i class="fa fa-bars"></i>
+                            </a>
+                            <h3>Bittrex Exchange</h3>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="wrapper wrapper-content">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="ibox float-e-margins">
+                            <div class="ibox-content">
+
+                                <div class="table-responsive table-img">
+                                    <table class="table table-striped table-bordered table-hover dataTables-example">
+                                    </table>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <!-- Main scripts -->
+    <script src="https://resonova.github.io/cdn/js/jquery/jquery-3.1.1.min.js"></script>
+    <script src="https://resonova.github.io/cdn/js/bootstrap/bootstrap.3.3.7.min.js"></script>
+    <script src="https://resonova.github.io/cdn/js/jquery/jquery.metisMenu.js"></script>
+    <script src="https://resonova.github.io/cdn/js/jquery/jquery.slimscroll.min.js"></script>
+
+    <!-- Datatables JS -->
+    <script src="https://resonova.github.io/cdn/js/datatables.min.js"></script>
+
+    <!-- Custom and plugin javascript -->
+    <script src="../js/novx-ui.js"></script>
+    <script src="../js/bittrex-assets.js"></script>
+
+    <!-- Page-Level Scripts -->
+    <script>
+        $(document).ready(function () {
+            $('.dataTables-example').DataTable({
+                data: dataSet,
+                pageLength: 15,
+                "lengthChange": false,
+                responsive: true,
+                dom: '<"html5buttons"B>lTfgitp',
+                buttons: [{
+                        extend: 'copy'
+                    },
+                    {
+                        extend: 'csv'
+                    },
+                    {
+                        extend: 'excel',
+                        title: 'ExampleFile'
+                    },
+                    {
+                        extend: 'pdf',
+                        title: 'ExampleFile'
+                    },
+
+                    {
+                        extend: 'print',
+                        customize: function (win) {
+                            $(win.document.body).addClass('white-bg');
+                            $(win.document.body).css('font-size', '10px');
+
+                            $(win.document.body).find('table')
+                                .addClass('compact')
+                                .css('font-size', 'inherit');
+                        }
+                    }
+                ],
+                columns: [
+                    {
+                        title: "Ticker"
+                    },
+                    {
+                        title: "Name"
+                    },
+                    {
+                        title: "Confirmations"
+                    },
+                    {
+                        title: "TxFee"
+                    },
+                    {
+                        title: "Active"
+                    }
+                ]
+
+            });
+
+        });
+    </script>
+
+</body>
+
+</html>
