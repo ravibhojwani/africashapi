@@ -1,2 +1,3 @@
 # tokenpairs.com
-Visualizing the relationships between cryptocurrency markets
+Africash Asset trades on Waves
+The Api is able to be created using RESONOVA Services
